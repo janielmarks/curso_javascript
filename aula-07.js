@@ -8,5 +8,7 @@ for(let i = 0; i < idades.lenght; i++) {
     console.log('resultado', idades.lenght)
 }
 
+// não entendi essa aula, mas tudo bem! depois volto pra conferir. 
+
 
 
